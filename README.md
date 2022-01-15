@@ -1,7 +1,7 @@
 # ojingeo
 Winner @ Cepheus'22 Hack by IIT Goa <br />
-(Doc)[https://drive.google.com/file/d/1zNy_sa1xCeEg76hLX3Wy_kuV4L99jxQ4/view?usp=sharing] <br />
-(Ojingeo)[https://ojingeo.ndureja.com] is a squid game management application. It features 2 portals, one for the frontman to manage players and works i.e. to eliminate, edit or create new entries and switch to the next game.</br>
+[Doc](https://drive.google.com/file/d/1zNy_sa1xCeEg76hLX3Wy_kuV4L99jxQ4/view?usp=sharing) <br />
+[Ojingeo](https://ojingeo.ndureja.com) is a squid game management application. It features 2 portals, one for the frontman to manage players and works i.e. to eliminate, edit or create new entries and switch to the next game.</br>
 The other portal is for the VIPs for betting on the players. It also features a completely functional bitcoin payment mechanism through which the VIPs can make payments. <br/>
 <br />
 <br />
